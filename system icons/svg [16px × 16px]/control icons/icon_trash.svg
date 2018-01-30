@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <title>icon_trash</title>
+  <g>
+    <rect x="6" y="5" width="1" height="8"/>
+    <rect x="9" y="5" width="1" height="8"/>
+    <path d="M13,2H11V1a1,1,0,0,0-1-1H6A1,1,0,0,0,5,1V2H3A1,1,0,0,0,2,3V4H3V14a1,1,0,0,0,1,1h8a1,1,0,0,0,1-1V4h1V3A1,1,0,0,0,13,2ZM6,1h4V2H6Zm6,13H4V4h8Z"/>
+  </g>
+</svg>
