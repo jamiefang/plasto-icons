@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <g>
+    <path d="M14,7v7H2V2H9l1-1H2A1,1,0,0,0,1,2V14a1,1,0,0,0,1,1H14a1,1,0,0,0,1-1V6Z"/>
+    <rect x="12.218" y="1.215" width="2.135" height="3" transform="translate(1.972 10.189) rotate(-45)"/>
+    <polygon points="4 9.879 4 12 6.121 12 12.53 5.591 10.409 3.47 4 9.879"/>
+  </g>
+</svg>
